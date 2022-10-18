@@ -7,16 +7,7 @@
     <title>Número Divisível</title>
 </head>
 <body>
-  
-    <form action="calc.php" method="post">
-           <H1>
-                Digite o Número:
-           </H1>     
-
-        <input type="text" name="numero">
-        <br>
-        <input type="submit" value="Confimar">
-
+  <p> nao <3 </p>
     </form>
     
 </body>
